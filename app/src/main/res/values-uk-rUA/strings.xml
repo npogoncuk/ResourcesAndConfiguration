@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="AppName">Ресурси та конфігурація</string>
+    <string name="activity_main_text">Ви використовуєте українську мову. Роздільна здатність обох сторін вашого пристрою перевищує 720 dp. Увімкнено нічний режим. Щільність пристрою – xhdpi.</string>
+</resources>

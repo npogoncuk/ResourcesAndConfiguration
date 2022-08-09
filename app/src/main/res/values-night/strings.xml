@@ -1,4 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="AppName">ResourcesAndConfiguration</string>
     <string name="activity_main_text">You are using Ukrainian. Both sides of your device are larger than 720dp. Night mode is turned on. Device\'s density is xhdpi.</string>
 </resources>
