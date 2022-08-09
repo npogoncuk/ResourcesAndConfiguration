@@ -1,4 +1,6 @@
 <resources>
     <string name="AppName">ResourcesAndConfiguration</string>
     <string name="activity_main_text">You are using Ukrainian. Both sides of your device are larger than 720dp. Night mode is turned on. Device\'s density is xhdpi.</string>
+    <string name="screen_size">Screen size: %s</string>
+    <string name="change_your_configuration">Change your configuration</string>
 </resources>
