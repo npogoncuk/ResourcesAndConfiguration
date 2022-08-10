@@ -3,6 +3,8 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidStudioProjects/Epam/ResourcesAndConfiguration/app/src/main/res/drawable/circle_animated_vector.xml" value="0.2365" />
+        <entry key="..\:/AndroidStudioProjects/Epam/ResourcesAndConfiguration/app/src/main/res/drawable/ic_baseline_circle_24.xml" value="0.231" />
         <entry key="..\:/AndroidStudioProjects/Epam/ResourcesAndConfiguration/app/src/main/res/layout-uk-rUA-sw720dp-night-xhdpi/activity_main.xml" value="0.2" />
         <entry key="..\:/AndroidStudioProjects/Epam/ResourcesAndConfiguration/app/src/main/res/layout/activity_configuration.xml" value="0.25416666666666665" />
         <entry key="..\:/AndroidStudioProjects/Epam/ResourcesAndConfiguration/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />

@@ -1,8 +1,9 @@
 package com.example.resourcesandconfiguration
 
 import android.content.Intent
-import androidx.appcompat.app.AppCompatActivity
+import android.graphics.drawable.AnimatedVectorDrawable
 import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
 import com.example.resourcesandconfiguration.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
@@ -17,5 +18,8 @@ class MainActivity : AppCompatActivity() {
         binding.button.setOnClickListener {
             startActivity(Intent(this, ConfigurationActivity::class.java))
         }
+
+        (binding.imageView.drawable as AnimatedVectorDrawable).start()
+
     }
 }
